@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{   
+    font-family: 'Manrope', sans-serif;
+    background-color: #edf1f5;
+    color: #333;   
+}
+
+.main{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5rem;
+    margin: auto;
+}
+
+.hi{
+    text-align: center;
+    margin: auto;
+}
